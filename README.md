@@ -6,22 +6,28 @@
 Hiragana/katakana + Kanji OR english name
 
 *Back*
-Additional Information for the answer
-Example Sentence Kanji
-Example Sentence hiragana
+Additional Information (Variations of definitions. Godan/Ichidan)
 Memorization Hint
 Tags
+
 
 **Enter Card (Reversed)**
 *Front*
 Hiragana Or English
 
 *Back*
-Tags
-Additional Information
-Example Sentence
-Example Sentence Hiragana
+Additional Information (Variations of definitions. Godan/Ichidan)
 Memorization Hint
+Tags
+
+
+**Clozer Card for Vocab**
+*Front*
+Example Sentence Hiragana + [Particle + Vocab OR only vocab] Up to Two clozers
+
+*Back*
+Example Sentence Kanji
+
 
 **Info Card (No reverse)**
 *Front*
@@ -32,7 +38,9 @@ Answer
 Optional additional info/example
 Optional Memorizing Hint
 
-**Close Card (No reverse)**
+
+
+**Clozer Card (No reverse)**
 *Front*
 Question
 
@@ -47,5 +55,3 @@ Optional
 
 All scripts must start with START_ANKI
 Script will need to create multiple files per card type, as some won't have the same number of fields
-
-Can I have reversed cards for enter?
