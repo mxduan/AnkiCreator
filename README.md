@@ -1,6 +1,6 @@
 # AnkiCreator
 
-**Vocab cards**
+**Vocab cards (Reversed)**
 
 *Front*
 Hiragana/katakana + Kanji OR english name
@@ -21,15 +21,16 @@ Memorization Hint
 Tags
 
 
-**Clozer Card for Vocab**
+**Clozer Card**
 *Front*
 Example Sentence Hiragana + [Particle + Vocab OR only vocab] Up to Two clozers
 
 *Back*
 Example Sentence Kanji
 
+EX: Lorsqu'il {{c1::test}} demandé qui avait cassé la fenêtre tous les garçons ont pris un air {{c1::innocent}}
 
-**Info Card (No reverse)**
+**Info Card**
 *Front*
 Question
 
@@ -37,17 +38,6 @@ Question
 Answer
 Optional additional info/example
 Optional Memorizing Hint
-
-
-
-**Clozer Card (No reverse)**
-*Front*
-Question
-
-*Back*
-Answer
-Optional additional info/example
-Optional 
 
 
 
