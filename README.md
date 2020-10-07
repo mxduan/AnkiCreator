@@ -24,8 +24,7 @@ Tags
 **Clozer Card**
 *Front*
 Example Sentence Hiragana + [Particle + Vocab OR only vocab] Up to Two clozers
-
-*Back*
+Example Sentence English
 Example Sentence Kanji
 
 EX: Lorsqu'il {{c1::test}} demandé qui avait cassé la fenêtre tous les garçons ont pris un air {{c1::innocent}}
