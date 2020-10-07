@@ -26,6 +26,7 @@ Tags
 Example Sentence Hiragana + [Particle + Vocab OR only vocab] Up to Two clozers
 Example Sentence English
 Example Sentence Kanji
+Tags
 
 EX: Lorsqu'il {{c1::test}} demandé qui avait cassé la fenêtre tous les garçons ont pris un air {{c1::innocent}}
 
@@ -37,6 +38,7 @@ Question
 Answer
 Optional additional info/example
 Optional Memorizing Hint
+Tags
 
 
 
