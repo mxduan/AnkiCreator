@@ -11,26 +11,23 @@ import java.util.Map;
 import java.lang.StringBuilder;
 import static java.util.Map.entry;
 
-public class VocabCard {
+public class InfoCard {
   String mainJapaneseField = "";
   String mainEnglishField = "";
   String additionalInformation = "";
-  String memorizationHint = "";
   String tags = "";
   Scanner noteScanner;
 
-  public VocabCard(Scanner scan) {
+  public InfoCard(Scanner scan) {
       noteScanner = scan;
   }
 
   private boolean errorCheck() {
-    if(mainJapaneseField.isEmpty() || mainEnglishField.isEmpty() || additionalInformation.isEmpty() || memorizationHint.isEmpty()) {
+    if(mainJapaneseField.isEmpty() || mainEnglishField.isEmpty()) {
       return false;
     }
     if(mainJapaneseField.indexOf("-") != -1 || mainJapaneseField.indexOf("#") != -1 
-      || mainEnglishField.indexOf("-") != -1 || mainEnglishField.indexOf("#") != -1 
-      || additionalInformation.indexOf("-") != -1 || additionalInformation.indexOf("#") != -1 
-      || memorizationHint.indexOf("-") != -1 || memorizationHint.indexOf("#") != -1) {
+      || mainEnglishField.indexOf("-") != -1 || mainEnglishField.indexOf("#") != -1) {
       return false;
     }
     return true;
@@ -43,10 +40,10 @@ public class VocabCard {
     StringBuilder result = new StringBuilder(mainJapaneseField);
     result.append("#");
     result.append(mainEnglishField);
-    result.append("#");
-    result.append(additionalInformation);
-    result.append("#");
-    result.append(memorizationHint);
+    if (!additionalInformation.isEmpty()) {
+      result.append("#");
+      result.append(additionalInformation);
+    }
     if (!tags.isEmpty()) {
       result.append("#");
       result.append(tags);
@@ -83,37 +80,44 @@ public class VocabCard {
 	}
 
 	public void translateToCard() {
-    String data = findNextLineAndRemoveStars(noteScanner);
-    
-    mainJapaneseField = data.substring(0, data.indexOf("-"));
-    int indexForEnglish = data.indexOf("#") == -1 ? data.length() : data.indexOf("#");
-    mainEnglishField = data.substring(data.indexOf("-") + 2, indexForEnglish);
+      String data = findNextLineAndRemoveStars(noteScanner);
+		  String japaneseData;
+	    String tagsData;
+	    if (data.indexOf('#') != -1) {
+	      mainJapaneseField = data.substring(0, data.indexOf('#'));
+	      tagsData = data.substring(data.indexOf('#'));
+	    } else {
+	      mainJapaneseField = data;
+	      tagsData = "";
+	    }
 
-    if (data.indexOf("#") != -1) {
-      StringBuilder tagsField = new StringBuilder();
-      for(int index = data.indexOf("#"); index < data.length(); ++index) {
-        if (data.charAt(index) == '#') {
-          continue;
-        }
-        tagsField.append(data.charAt(index));
+	    StringBuilder tagsField = new StringBuilder();
+	    for(int index = 0; index < tagsData.length(); ++index) {
+	        if (tagsData.charAt(index) == '#') {
+	        continue;
+	      }
+	      tagsField.append(tagsData.charAt(index));
+	    }
+	    tags = tagsField.toString();
+
+	    mainEnglishField = findNextLineAndRemoveStars(noteScanner);
+      String potentialAdditionalInformation = findNextLineAndRemoveStars(noteScanner);
+      if(!potentialAdditionalInformation.equals("---")) {
+	      additionalInformation = potentialAdditionalInformation;
       }
-      tags = tagsField.toString();
-    }
-
-    additionalInformation = findNextLineAndRemoveStars(noteScanner);
-    memorizationHint = findNextLineAndRemoveStars(noteScanner);
 	}
 
   public static boolean verifyCode() throws FileNotFoundException {
-      File myObj = new File("VocabCardTest.txt");
+      File myObj = new File("InfoCardTest.txt");
       Scanner myReader = new Scanner(myObj);
-      VocabCard card = new VocabCard(myReader);
+      InfoCard card = new InfoCard(myReader);
       card.translateToCard();
 
-      File correctCardFile = new File("VocabCardVerification.txt");
+      File correctCardFile = new File("InfoCardVerification.txt");
       Scanner correctReader = new Scanner(correctCardFile);
       String correctString = correctReader.nextLine();
 
+      
       String producedString = card.getString();
       if (producedString.charAt(producedString.length()-1) == '\n') {
         producedString = producedString.substring(0, producedString.length() - 1);
