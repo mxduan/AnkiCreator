@@ -46,3 +46,7 @@ Tags
 
 All scripts must start with START_ANKI
 Script will need to create multiple files per card type, as some won't have the same number of fields
+
+TO USE
+javac -d . translate.java Cards/VocabCard.java Cards/ClozerCard.java Cards/InfoCard.java
+java translate.translate
