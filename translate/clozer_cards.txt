@@ -1,0 +1,4 @@
+あした は やすみ です {{c1::けど}}#Tomorrow is a holiday (but), so we can't go to the store#This is using a connector to drop the "obvious" bit of the sentence.#
+だいじょうぶ {{c1::かな}} #I wonder if it's okay. Phrase can be appended to adjs to be I wander.#No additional info#expression vocab
+もも{{c1::いろ}} #Pink#Can use いろ like this on many objects for their color.#color
+わたしは　にほんご{{c1::が}}　はなせます。#I can speak Japanese.#Potential means possibility. This means the verb is not an action it's more like a situation. Therefore we don't ever want to use を since を is the object of your action. Use が instead to describe your ability/situation.#potential

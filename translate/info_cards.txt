@@ -1,0 +1,13 @@
+There are only 4 adjectives that lose their いs at the end when not prepending a noun. What are they? #Only true for くろい (black)、しろい (white)、あおい (blue)、あかい (red). All other colors are nouns! Midori, for example, is a green noun, so みどりのTシャツ. This is because these are the only 4 color words that originated in original Japanese.##adjectives noun adjectives
+Where do colors come from? #Color names originate from the name of the object. When we need to describe a type of color, we say an object to reference "that kind of color". ちゃいろ, for example, is brown (Tea colored!), and midori used to mean young leaves in spring. You can also use いろ like momoiro = pink == peach color. Several colors work with this pattern.##culture
+Traffic lights are called red, yellow, and what? #Blue! Green things are often called blue, even though people know they're green.##culture
+ぜひ、いっしょにいきませんか #Why don't we go together? When used this way, means I insist/I recommend. The other way around also works. ありがとうございます。ぜひ.##zehi
+ありがとうございます。ぜひ #Thank you. I'd love to. An enthusaistic response to an invitation##zehi
+How do you make adjectives into nouns? #おおきい→おおきさ. Use sa instead of i. The resulting noun has a related but different meaning. おおきい (big adj) → おおきさ (big size). おいしい (delicious adj) →おいしさ (taste. Has a positive meaning because of the origin). あまい (sweet) ー＞ あまさ (sweetness)##adjectives nouns adjectives
+What's the difference between それから, and それで? #それから is "And then" while それで is because of that (the sentence which comes after MUST be unavoidable due to the former)##connectors
+Why is it better to generally prefer ですから or だから to それで？ #Because それで requires that the second sentence to be something that you can not avoid due to the sentence before. For example, I have work to do, それで じかんがありません. Note that だから is more casual compared to ですから.##connectors
+What's wrong with this sentence? レッスンを ならたい #Because ならたい already means take a lesson, you don't to use lesson in the sentence. Redundant.##correcting redundancy
+To change a Group 1 verb to Potential form (to be able to), what should you do? #For group 1 verbs, u→e. To convert from masu, change i before masu to e. For casual speak, drop the masu and then add る or ない. Act as if group 2.##potential
+To change a Group 2 verb to potential form, what should you do? #Add られ to the end of the root form. For masu, switch for られます. This works the same even if the verb is just one character.  います→いられます. ##potential
+How do you change a group 3 verb to potential form? #きます→こられます. します→できます##potential
+Does ある have a potential form? #Nope! Aru has no potential form. For objects this isn't a thing.##potential
