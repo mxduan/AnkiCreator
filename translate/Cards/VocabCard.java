@@ -44,7 +44,7 @@ public class VocabCard implements Card {
     mainJapaneseField = data.substring(0, data.indexOf("-"));
     int indexForEnglish = data.indexOf("#") == -1 ? data.length() : data.indexOf("#");
     int firstLetterPastDash = CardUtils.findFirstLetter(data, data.indexOf("-"));
-    mainEnglishField = data.substring(firstLetterPastDash, indexForEnglish);
+    mainEnglishField = data.substring(data.indexOf("-") + 2, indexForEnglish);
     tags = CardUtils.getTags(data);
 
     additionalInformation = CardUtils.findNextLineAndRemoveStars(noteScanner);
