@@ -17,22 +17,15 @@ public class VocabCard implements Card {
   String additionalInformation = "";
   String memorizationHint = "";
   String tags = "";
-  Scanner noteScanner;
+  PeekableScanner noteScanner;
 
-  public VocabCard(Scanner scan) {
+  public VocabCard(PeekableScanner scan) {
       noteScanner = scan;
   }
 
   public boolean errorCheck() {
-    if(mainJapaneseField.isEmpty() || mainEnglishField.isEmpty() || additionalInformation.isEmpty() || memorizationHint.isEmpty()) {
-      System.out.println("Field missing");
-      return false;
-    }
-    if(mainJapaneseField.indexOf("-") != -1 || mainJapaneseField.indexOf("#") != -1 
-      || mainEnglishField.indexOf("-") != -1 || mainEnglishField.indexOf("#") != -1 
-      || additionalInformation.indexOf("-") != -1 || additionalInformation.indexOf("#") != -1 
-      || memorizationHint.indexOf("-") != -1 || memorizationHint.indexOf("#") != -1) {
-      System.out.println("Extra - or # field");
+    if(mainJapaneseField.isEmpty() || mainEnglishField.isEmpty()) {
+      System.out.println(mainJapaneseField + " has failed");
       return false;
     }
     return true;
@@ -40,13 +33,14 @@ public class VocabCard implements Card {
 
 	public void translateToCard() {
     String data = CardUtils.findNextLineAndRemoveStars(noteScanner);
-    
-    mainJapaneseField = data.substring(0, data.indexOf("-"));
-    int indexForEnglish = data.indexOf("#") == -1 ? data.length() : data.indexOf("#");
-    int firstLetterPastDash = CardUtils.findFirstLetter(data, data.indexOf("-"));
-    mainEnglishField = data.substring(data.indexOf("-") + 2, indexForEnglish);
+    if (data.indexOf('#') != -1) {
+      mainJapaneseField = data.substring(0, data.indexOf('#'));
+    } else {
+      mainJapaneseField = data;
+    }
     tags = CardUtils.getTags(data);
 
+    mainEnglishField = CardUtils.findNextLineAndRemoveStars(noteScanner);
     additionalInformation = CardUtils.findNextLineAndRemoveStars(noteScanner);
     memorizationHint = CardUtils.findNextLineAndRemoveStars(noteScanner);
 	}

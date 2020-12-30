@@ -1,4 +1,15 @@
-あした は やすみ です {{c1::けど}}#Tomorrow is a holiday (but), so we can't go to the store#This is using a connector to drop the "obvious" bit of the sentence.#
-だいじょうぶ {{c1::かな}} #I wonder if it's okay. Phrase can be appended to adjs to be I wander.#No additional info#expression vocab
-もも{{c1::いろ}} #Pink#Can use いろ like this on many objects for their color.#color
-わたしは　にほんご{{c1::が}}　はなせます。#I can speak Japanese.#Potential means possibility. This means the verb is not an action it's more like a situation. Therefore we don't ever want to use を since を is the object of your action. Use が instead to describe your ability/situation.#potential
+にほんご{{c1::が}}はなせる#Can speak Japanese#が is used for potential form as this is an ability. This isn't true always! を can be used for verbs that normally take を if you're not confident in the ability.#
+にほんにきた{{c1::あと}}、２ねん にほんごをべんきょうしています#Since coming to Japan, I've been studying Japanese for two years.#If the focus is on a duration or an ongoing progressive event, drop the で from あとで！ Both まえに and あとで focus on a point in time.#
+アメリカにいく{{c1::まえ}}、３ねん　えいごをべんきょうしていました#Before going to America, I had studied English for 3 years.#If there's a duration don't use まえに, same for あとで。に and で are both for points in time.#
+これをあたため{{c1::てもらえませんか::Most polite}}？#Could you heat this for me?#Is it possible for me to receive that service from you? Interestingly, someone I talked to didn't say this is the most polite version. Need to verify this info. Also may be weird to say this to a convenience store clerk as it implies if you don't know that they can or can not.#
+{{c1::もう}}しつもんがありません#I don't have anymore questions.#Can't use もっと here! Only もう works with both positive and negative forms it looks like.#
+{{c1::あとひとつ}}ビールおねがします#One last beer please!##
+ポイントカードは　{{c1::もった}}ほうがいいです#It's better to apply for (get the) point card.#Can use plain form plus ほうが like this!#
+ポイントカードは {{c1::もっていた}}ほうがいいです#It's better to own the point card.#This is different than もったほうが ... because this is the state of owning#
+むじの{{c1::まえ}}{{c1::を}}{{c1::とおります}}#To pass by Muji('s storefront)#とおる/通る#
+かれはこの{{c1::めんどうをみる::implies it's troublesome}}#He takes care of the child.##
+かれはペットの{{c1::世話をする::not troublesome}}#He takes care of the pet.##
+{{c1::こどもがうまれるまえはしごとのあとでなにをしましたか？}}#What did you do after work before your child was born?##
+{{c1::いっしゅうかんでにほんごべんきょうをやめました}}#I stopped studying Japanese after one week.##
+このレシピは{{c1::かんたん}}です#This recipe is easy.#For things that are simple or easy to make, use かんたん. For study related things, use やさしい#
+どんのぐらい{{c1::きょり}}ですか？#What's the distance?##

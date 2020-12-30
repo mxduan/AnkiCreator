@@ -16,27 +16,16 @@ public class ClozerCard implements Card {
   String mainEnglishField = "";
   String additionalInformation = "";
   String tags = "";
-  Scanner noteScanner;
+  PeekableScanner noteScanner;
 
-  public ClozerCard(Scanner scan) {
+  public ClozerCard(PeekableScanner scan) {
       noteScanner = scan;
   }
 
   public boolean errorCheck() {
-    if(mainJapaneseField.isEmpty() || mainEnglishField.isEmpty() || additionalInformation.isEmpty()) {
+    if(mainJapaneseField.isEmpty() || mainEnglishField.isEmpty()) {
       System.out.println(mainJapaneseField + " has failed");
       System.out.println(mainEnglishField);
-      System.out.println(additionalInformation);
-      System.out.println(tags);
-      return false;
-    }
-    if(mainJapaneseField.indexOf("-") != -1 || mainJapaneseField.indexOf("#") != -1 
-      || mainEnglishField.indexOf("-") != -1 || mainEnglishField.indexOf("#") != -1 
-      || additionalInformation.indexOf("-") != -1 || additionalInformation.indexOf("#") != -1) {
-      System.out.println(mainJapaneseField + " has failed");
-      System.out.println(mainEnglishField);
-      System.out.println(additionalInformation);
-      System.out.println(tags);
       return false;
     }
     return true;

@@ -1,12 +1,37 @@
-いじょう です#That's all #Once you have ordered, the wait staff will likely ask “Ijou desu ka?” (Is that all?) If you’re finished ordering, tell them “ijou desu”. If you think you’ll be ordering more later, add “toriaezu” (for now) to let them know you might be calling them again soon.#no hint#vocab eating out popular
-とりあえず  いじょうです #That's all for now.#とりあえず means anyways, or for now (followed by switch topic). So with that's all (いじょうです）it becomes That's all for now.#no hint#
-けど #But #けど#でも and けど　are both "but". However, けど links a second clause, which may or may not be actually said out loud. Similar in function to が in かいたいんですが. This also can be used to "soften" your statement when you make an assertion about something, so as to not appear too strong. "I'd like to go けど"... "I'd like to go (but I won't if that causes difficulty )#vocab connectors
-なんとか #something. #With suru this becomes to handle or deal with somehow, one way or another. なんとかしる (Do something!)#no hint#vocab adverb expression
-なんとかなる #To be able to manage somehow or another. #Can mean It'll be okay in the end.#No hint#vocab godan verb
-かわいそう #poor thing. #no additional info#no hint#vocab Na adj  Noun
-わすれちゃった #oops forgot. #This verb form indicates it wasn't the speaker's intention. (わすれる is ichidan and tarnsitive, wasurechau)#no hint#expression vocab
-きいろ #yellow #no additional info#A kiiro (kilo) of bananas is always yellow!#vocab color
-ちゃいろ #brown (Tea colored!) #no additional info#no hint#vocab color
-からさは どの ぐらい です か？ #How spicy is it?  #no additional field#no hint#useful eating
-つぎ に #next time #no additional field#no hint#vocab common
-やきます #To grill the meat (NOT FRY. フライ is deep fried) #This is where yakiniq comes from! Godan. Transitive.#"Yaaaaaaak!" The sheep cried. As it was grilled. Alive.#vocab cooking
+セットでコーラとバーガーとフライドポテトをおねがします#How to order a set of cola, burger, and french fries at Mcdonalds.#で is the method! This is the method by which you're ordering, a set as opposed to a single item.##
+あたためてもらえませんか#Can you heat this please (politest form)###
+3rd day. Three days#みっか#Date is the same as counting days. The only exception is for 1.##
+The first day of the month #ついたち###
+One day (count) #いちにち###
+じしゅかくり #self quarantine. Independent + Isolation (split at halfway)###
+ホテルに泊まる/とまる #Stay at an airbnb/hotel #とまる/止まる means to stop intransitive but with different kanji (泊まる) means to stay at overnight. ##
+みなみ/南 むき #South facing (south + direction)###
+ほくとう/北東 むき #Northeast facing###
+見始める #Starting to see or watch.###
+どうりょう/同僚 #coworkers###
+めんどうをみる/面倒を見る #To take care of#May include feelings of troublesome and difficult##
+せわをする/世話をする#To take care of###
+りょうしん/両親#Parents (both)#When you're talking about someone else's parents, ごりょうしん##
+かざる/飾る#To display or decorate. Godan#へやをかざりました.##
+だんだん/段々 #Gradually, increasingly. Adverb. #The kanji for this is my first name!#だんだんあたたかくなります. It will get warmer and warmer.#
+さいこう/最高 #At most. Highest. The best. Noun###
+さいてい/最低 #At least. Worst. ###
+じゅうよう/重要 #Important. Na adjective.#Same meaning as たいせつ but is more often used. ##
+こたえ/答え #Answer###
+ひつよう/必要 #necessary, indispensible. Na adjective.#つつむひつようはありません。You don't have to wrap it.##
+こんなかんじ #Like this.#こんな is a shortened form of この　ような##
+そんなかんじ #Like it.#そんな is a shortened form of その　ような##
+かんようしょくぶつ/観葉植物 #decorative plant###
+いなか/田舎 #Rural area###
+ねんまつねんし/年末年始 #Period of time encompassing the end of the year and the start of the new year.#年 (year) まつ/末 (end) 年 (year) し/始 (start) ##
+ねんまつやすみ/年末休み #End of the year vacation#ねん Year まつ end やすみ vacation.##
+なまえ/名字 #First name (not family name)###
+みょうじ/苗字 #Family name###
+いっぱんてき/一般的 #General, popular. Common. Na adjective.###
+しぜん #nature###
+じょうきょうする/上京する #Short phrase meaning when local people move to a big city. Basically always Tokyo.###
+しぜん/自然 #Nature. As in human nature. ###
+おおきい とかい/都会 #big city###
+じっか/実家 #The house you grew up in. Parent's house.###
+よこくへん/予告編 #Movie trailer. よこく is the abbreviated form.###
+かまきり #Praying mantis. #かま (sickle) + きり (cut)##

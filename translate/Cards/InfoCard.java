@@ -16,18 +16,14 @@ public class InfoCard implements Card {
   String mainEnglishField = "";
   String additionalInformation = "";
   String tags = "";
-  Scanner noteScanner;
+  PeekableScanner noteScanner;
 
-  public InfoCard(Scanner scan) {
+  public InfoCard(PeekableScanner scan) {
       noteScanner = scan;
   }
 
   public boolean errorCheck() {
     if(mainJapaneseField.isEmpty() || mainEnglishField.isEmpty()) {
-      return false;
-    }
-    if(mainJapaneseField.indexOf("-") != -1 || mainJapaneseField.indexOf("#") != -1 
-      || mainEnglishField.indexOf("-") != -1 || mainEnglishField.indexOf("#") != -1) {
       return false;
     }
     return true;
