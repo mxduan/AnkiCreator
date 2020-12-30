@@ -51,8 +51,10 @@ Additional Information (Variations of definitions. Godan/Ichidan)
 Memorization Hint
 
 Tags
+
 .
 .
+
 **Enter Card (with Reverse)**
 
 *Front*
