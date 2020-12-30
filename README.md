@@ -35,42 +35,66 @@ STOP_ANKI
 
 
 Cards are formatted in Anki as below.
+
 **Vocab cards (with Reverse)**
 
 *Front*
+
 Hiragana/katakana + Kanji OR english name
 
+
 *Back*
+
 Additional Information (Variations of definitions. Godan/Ichidan)
+
 Memorization Hint
+
 Tags
 
 
 **Enter Card (with Reverse)**
+
 *Front*
+
 Hiragana Or English
 
+
 *Back*
+
 Additional Information (Variations of definitions. Godan/Ichidan)
+
 Memorization Hint
+
 Tags
 
 
 **Clozer Card**
+
 *Front*
+
 Example Sentence Hiragana + [Particle + Vocab OR only vocab] Up to Two clozers
+
 Example Sentence English
+
 Example Sentence Kanji
+
 Tags
 
 EX: Lorsqu'il {{c1::test}} demandé qui avait cassé la fenêtre tous les garçons ont pris un air {{c1::innocent}}
 
+
 **Info Card**
+
 *Front*
+
 Question
 
 *Back*
+
 Answer
+
 Optional additional info/example
+
 Optional Memorizing Hint
+
 Tags
