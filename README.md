@@ -35,6 +35,7 @@ STOP_ANKI
 
 
 Cards are formatted in Anki as below.
+.
 
 **Vocab cards (with Reverse)**
 
@@ -50,8 +51,8 @@ Additional Information (Variations of definitions. Godan/Ichidan)
 Memorization Hint
 
 Tags
-
-
+.
+.
 **Enter Card (with Reverse)**
 
 *Front*
