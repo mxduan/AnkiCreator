@@ -67,7 +67,8 @@ Memorization Hint
 
 Tags
 
-
+.
+.
 
 **Clozer Card**
 
@@ -83,7 +84,9 @@ Tags
 
 EX: Lorsqu'il {{c1::test}} demandé qui avait cassé la fenêtre tous les garçons ont pris un air {{c1::innocent}}
 
-/n
+.
+.
+
 **Info Card**
 
 *Front*
