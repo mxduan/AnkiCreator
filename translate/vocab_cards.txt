@@ -1,37 +1,12 @@
-セットでコーラとバーガーとフライドポテトをおねがします#How to order a set of cola, burger, and french fries at Mcdonalds.#で is the method! This is the method by which you're ordering, a set as opposed to a single item.##
-あたためてもらえませんか#Can you heat this please (politest form)###
-3rd day. Three days#みっか#Date is the same as counting days. The only exception is for 1.##
-The first day of the month #ついたち###
-One day (count) #いちにち###
-じしゅかくり #self quarantine. Independent + Isolation (split at halfway)###
-ホテルに泊まる/とまる #Stay at an airbnb/hotel #とまる/止まる means to stop intransitive but with different kanji (泊まる) means to stay at overnight. ##
-みなみ/南 むき #South facing (south + direction)###
-ほくとう/北東 むき #Northeast facing###
-見始める #Starting to see or watch.###
-どうりょう/同僚 #coworkers###
-めんどうをみる/面倒を見る #To take care of#May include feelings of troublesome and difficult##
-せわをする/世話をする#To take care of###
-りょうしん/両親#Parents (both)#When you're talking about someone else's parents, ごりょうしん##
-かざる/飾る#To display or decorate. Godan#へやをかざりました.##
-だんだん/段々 #Gradually, increasingly. Adverb. #The kanji for this is my first name!#だんだんあたたかくなります. It will get warmer and warmer.#
-さいこう/最高 #At most. Highest. The best. Noun###
-さいてい/最低 #At least. Worst. ###
-じゅうよう/重要 #Important. Na adjective.#Same meaning as たいせつ but is more often used. ##
-こたえ/答え #Answer###
-ひつよう/必要 #necessary, indispensible. Na adjective.#つつむひつようはありません。You don't have to wrap it.##
-こんなかんじ #Like this.#こんな is a shortened form of この　ような##
-そんなかんじ #Like it.#そんな is a shortened form of その　ような##
-かんようしょくぶつ/観葉植物 #decorative plant###
-いなか/田舎 #Rural area###
-ねんまつねんし/年末年始 #Period of time encompassing the end of the year and the start of the new year.#年 (year) まつ/末 (end) 年 (year) し/始 (start) ##
-ねんまつやすみ/年末休み #End of the year vacation#ねん Year まつ end やすみ vacation.##
-なまえ/名字 #First name (not family name)###
-みょうじ/苗字 #Family name###
-いっぱんてき/一般的 #General, popular. Common. Na adjective.###
-しぜん #nature###
-じょうきょうする/上京する #Short phrase meaning when local people move to a big city. Basically always Tokyo.###
-しぜん/自然 #Nature. As in human nature. ###
-おおきい とかい/都会 #big city###
-じっか/実家 #The house you grew up in. Parent's house.###
-よこくへん/予告編 #Movie trailer. よこく is the abbreviated form.###
-かまきり #Praying mantis. #かま (sickle) + きり (cut)##
+こたえ/答え#answer###
+おやごさん#Another's parent (singular or plural). Polite###
+ごりょうしん#Someone else's parents (must be talking about both)###
+だんなさん/旦那さん#Husband. This is really casual. Only say to really close friends. donna has the meaning of a person bringing you money. Do not say this to your boss. Talking about your own husband is okay.#旦那 is male##
+ごしゅじん#Your or someone else's husband. Polite.###
+おゆめさん/お嫁さん#Bride or wife.#嫁  is wife or bridge.##
+できれば/出来れば #if possible###
+たずさわる/携わる#To engage in; to be involved in. Intransitive. Godan.#project に わっている##
+どういうことですか？#What do you mean, by what you just said?#どういう means what kind of. Kinda like nani. A little argumentative from sensei's perspective. どういうこと is more casual##
+つまり、どういうことですか？#Hurry up and get to the point. If you're familiar with the person and the other person is giving a really long explanation.###
+どういうことでしょうか#If there is an explanation already, then this means Please explain again. ###
+I am Mike! (Not Michael!)#わたしはマイクだし#You can finish the sentence with し to make your point in colloquial JApanese.##

@@ -1,19 +1,17 @@
-# Shoko - 12/7/20
+# Shoko 12/28/20
 
-Class: Dec 7, 2020
-Created: Nov 30, 2020 3:12 AM
+Class: Dec 28, 2020
+Created: Dec 27, 2020 11:08 AM
 Property: Started
 Reviewed: No
 
-きてみてもいいですか
+テラスハウスは日本語を学ぶのに役立ちます。
 
-May I try and wear it?
+学ぶのに - Noun clause will be in lesson ten. Studying. 
 
-How is たべてから different from たべたあとで? Kaori sensei mentioned the feeling is different.
+When are na forms for adjectives used? n desu, when else? How to know when to use no and na?
 
-てから has a time sequence. Stronger meaning. Sequence of actions is definite. The other way around it sounds like there's a chance V2 can happen before V1, therefore shower can't happen before waking up. 
-
-tsukemasu. This also means to put together. 
+Usually depends on the following phrase.
 
 # Pre-class questions
 
@@ -21,485 +19,387 @@ START_ANKI
 
 info
 
-I'm going to the convenience store now.
+How do you put together a list of verbs the same way you would use や or とか with nouns?
 
-いまから　コンビニに　いきます
+たり form！V plain past form (Vた) + り. Can put two or three verbs together max and must end with a します in the conjugated form that you want all the other verbs to take as well (past, future, etc). You can also only use one verb too while still ending with します to imply you did other things but this is the "main thing." たべたりします.
 
-いまから is from now. Basically after we have this talk I'm going to go.
+---
+
+clozer
+
+{たべたり、かぞくにあったり、ねったり します}.
+
+アメリアでなにをしますか？ (A: Eat, meet family, sleep. Use たり)
+
+---
+
+clozer
+
+{カラオケをしたり、たべたり、ともだちにあったり したい}.
+
+にほんかえったあとで、なにをしたい？ (karaoke, eat, meet friends.)
+
+たり is used because there's no specific order here. No て form necessary.
+
+---
+
+clozer
+
+{べんきょうをしたり、うんどうをしたりしませんでした}
+
+きのうなにをしませんでしたか？ (A:study, exercise).
+
+---
+
+clozer
+
+{ともだちとばんごはんをたべたりしました}
+
+きのうなにをしましたか？　(A: Ate dinner with a friend, imply among various things)
+
+You can use only one word in this list too! Can imagine there are other things but dinner could be the main thing so you chose to talk about it.
+
+---
+
+vocab
+
+こたえ/答え
+
+answer
+
+---
+
+clozer
+
+私のしゅくだいは{あとなんにちできますか}
+
+How many more days can I do my homework?
+
+---
+
+clozer
+
+あなたのしゅくだいは{あとなんにちでできますか}
+
+In how many more days can you finish your homework?
 
 ---
 
 info
 
-I'm going to the convenience store right now.
+かぞくに　１しゅうかん　あいました
 
-いま　コンビニに　いきます
+I met my family for one week
 
-いま is going literally right now.
-
----
-
-clozer
-
-にほんご{が}はなせる
-
-Can speak Japanese
-
-が is used for potential form as this is an ability. This isn't true always! を can be used for verbs that normally take を if you're not confident in the ability.
+Without a particle after the numbers counter means you did the verb for that *duration*.
 
 ---
 
 info
 
-にほんごをはなせる
+かぞくに　１しゅうかんで　あいました
 
-I can kinda speak Japanese.
-
-For verb that normally take を, the potential form can also take を if you're not confident in the ability. が sounds like I can do it. できる is always が. が is always safe. 
-
----
-
-clozer
-
-にほんにきた{あと}、２ねん にほんごをべんきょうしています
-
-Since coming to Japan, I've been studying Japanese for two years.
-
-If the focus is on a duration or an ongoing progressive event, drop the で from あとで！ Both まえに and あとで focus on a point in time.
-
----
-
-clozer
-
-アメリカにいく{まえ}、３ねん　えいごをべんきょうしていました
-
-Before going to America, I had studied English for 3 years.
-
-If there's a duration don't use まえに, same for あとで。に and で are both for points in time.
-
----
-
-vocab
-
-セットでコーラとバーガーとフライドポテトをおねがします
-How to order a set of cola, burger, and french fries at Mcdonalds.
-
-で is the method! This is the method by which you're ordering, a set as opposed to a single item.
-
----
-
-vocab
-
-あたためてもらえませんか
-Can you heat this please (politest form)
-
----
-
-clozer
-
-これをあたため{てもらえませんか::Most polite}？
-
-Could you heat this for me?
-
-Is it possible for me to receive that service from you? Interestingly, someone I talked to didn't say this is the most polite version. Need to verify this info. Also may be weird to say this to a convenience store clerk as it implies if you don't know that they can or can not.
-
----
-
-clozer
-
-{もう}しつもんがありません
-
-I don't have anymore questions.
-
-Can't use もっと here! Only もう works with both positive and negative forms it looks like.
-
----
-
-Clozer
-
-{あとひとつ}ビールおねがします
-
-One last beer please!
-
----
-
-Info
-
-Want to drink one last beer?
-
-あとひとつビールをのみませんか？
+It took one week to meet my family. With で, I had to spend the 1 week to accomplish/get to the verb. 
 
 ---
 
 info
 
-What's the difference between  もうひとつ and あとひとつ?
+What's the difference betwen しゅくだいは　あと　なんにちで　できますか and しゅくだいは　なんにちで　できますか?
 
-Both mean one more, but the later one means after the one more it'll be the end.
+Same meaning but difference in nuance. なんにちで sounds like how many days do you need. あと なんにち how many more days do you need. あと sounds like you started already.
+
+---
+
+clozer
+
+しょくじ{に}{きをつけています}か？
+
+Do you care about your food?
+
+きをつける is putting your mind into something so you use に
+
+---
+
+info
+
+What does も not replace, and what does it replace?
+
+Doesn't replace に or で。Replaces は、が、を
 
 ---
 
 vocab
 
-3rd day. Three days
-みっか
+おやごさん
 
-Date is the same as counting days. The only exception is for 1.
-
----
-
-vocab
-
-The first day of the month 
-ついたち
+Another's parent (singular or plural). Polite
 
 ---
 
 vocab
 
-One day (count) 
-いちにち
+ごりょうしん
+
+Someone else's parents (must be talking about both)
 
 ---
 
 vocab
 
-じしゅかくり 
-self quarantine. Independent + Isolation (split at halfway)
+だんなさん/旦那さん
+
+Husband. This is really casual. Only say to really close friends. donna has the meaning of a person bringing you money. Do not say this to your boss. Talking about your own husband is okay.
+
+旦那 is male
 
 ---
 
 vocab
 
-ホテルに泊まる/とまる 
-Stay at an airbnb/hotel 
+ごしゅじん
 
-とまる/止まる means to stop intransitive but with different kanji (泊まる) means to stay at overnight. 
+Your or someone else's husband. Polite.
 
 ---
+
+vocab
+
+おゆめさん/お嫁さん
+
+Bride or wife.
+
+嫁  is wife or bridge.
+
+---
+
+vocab
+
+できれば/出来れば 
+
+if possible
+
+---
+
+vocab
+
+たずさわる/携わる
+
+To engage in; to be involved in. Intransitive. Godan.
+
+project に わっている
+
+---
+
+clozer
+
+かれはいがく (medicine) の けんきゅう (research) {に}{たずさわっている}
+
+He's involved in medical research. 
+
+---
+
+info
+
+Can you use V+てもいいですか to request someone else do something?
+
+Nope! This is asking for permission only for you.
+
+---
+
+info
+
+What is せんしゅう カナがおすすめしてくれたグラコロを食べました。
+
+I ate Kana's Guraco recommendation last week.
+
+---
+
+vocab
+
+どういうことですか？
+
+What do you mean, by what you just said?
+
+どういう means what kind of. Kinda like nani. A little argumentative from sensei's perspective. どういうこと is more casual
+
+---
+
+vocab
+
+つまり、どういうことですか？
+
+Hurry up and get to the point. If you're familiar with the person and the other person is giving a really long explanation.
+
+---
+
+vocab
+
+どういうことでしょうか
+
+If there is an explanation already, then this means Please explain again. 
+
+---
+
+info
+
+Spit it out, say it clearly! 
+
+どういうこと
+
+Can be used if someone isn't speaking clearly, hiding something.
+
+---
+
+info
+
+How do you use し with verbs to list multiple verbs, or give reasons, or emphasize differences?
+
+V plain form + し
+
+---
+
+clozer
+
+{するし}, {しないし}, {しているし}, {していなかった し}
+
+Use し with する in present future, negative, progressive, and negative past progressive.
+
+---
+
+clozer
+
+{かわいいし}, {かわいくないし}
+
+Use し with かわいい in positive and negative forms.
+
+---
+
+clozer
+
+{きれいだし}, {きれいではないし}
+
+Use し with きれい in positive and negative forms.
+
+The rule for し with na-adjectives is na-adjective + だ + し. Note きれいじゃないし is also acceptable.
+
+---
+
+clozer
+
+{あめだし}, {あめではないし}
+
+Use し with あめ/雨
+
+The rule for し with nouns is noun + だ + し
+
+---
+
+clozer
+
+あきはばらに{いったし}、はらじゅくに{もいった}
+
+I went to Akihabara as well as Harajuku.
+
+This uses し as an "and". Notice that the end verb uses も rather than し. This can happen in this kind of sentence.
+
+---
+
+clozer
+
+マギーは{かわいいし}、{せもたかい}。
+
+Maggie is cute and tall (among other things)
+
+Note that if you had used て for the adjs it would also work but limits the qualities to those listed, rather than implying there's others. マギーはかわいくてせもいい。
+
+---
+
+clozer
+
+このコートはいろがきれい{だし}、すきなデザイン{だし}。かいたいですよ。
+
+This coat has a beautiful color, and I like the design, I really want to buy it.
+
+You don't always need も either! Can continue using し to list if the subject changes. 
+
+---
+
+info
+
+What type of language is し? Keigo or Casual?
+
+し is conversational and not used for writing.
+
+---
+
+clozer
+
+かれはきぶんがいいときもある{し}、わるいときもある。
+
+There are times when he feels good, but also times when he feels bad.
+
+This is when し is used to list 2 different things to highlight the contrast
+
+---
+
+clozer
+
+おなかがすいた{し}、のどがかわいた{し}、なにかたべたいです。
+
+(Because) I'm hungry and thirsty, I need to eat something now.
+
+し can be used as a way to give a reason for something. In this way it acts as an "and" as well as a "Because"
+
+---
+
+clozer
+
+雨が降っている{し::Colloquial}、もう帰ります。
+
+It's raining so I will go home now.
+
+し when used to give a reason is similar to から but softer and more colloquial.
+
+---
+
+clozer
+
+Q:どうしてレストラんでたべましたか？ A:おいしい{し}　やすい{から::no more reasons} たべます
+
+Q: Why did you eat at the restaurant? A: Because it was delicious and cheap.
+
+If there is more than one し you can replace the last one with から
+
+---
+
+clozer
+
+Q:どうしてレストラんでたべましたか？ A:おいしい{し}　やすい{し::Sounds like you were going to say more reasons but you didn't} たべます
+Q: Why did you eat at the restaurant? A: Because it was delicious and cheap.
+
+Not using から as the last し works but it sounds like you had something else on your mind but didn't end up saying it. 
+
+---
+
+vocab
+
+I am Mike! (Not Michael!)
+
+わたしはマイクだし
+
+You can finish the sentence with し to make your point in colloquial JApanese.
+
+---
+
+clozer
+
+わたしはマイク{だし}
+
+I am Mike! (Not Michael!)
+
+---
+
+END_ANKI
 
 # Class Notes
-
-vocab
-
-みなみ/南 むき 
-South facing (south + direction)
-
----
-
-vocab
-
-ほくとう/北東 むき 
-Northeast facing
-
----
-
-clozer
-
-ポイントカードは　{もった}ほうがいいです
-
-It's better to apply for (get the) point card.
-
-Can use plain form plus ほうが like this!
-
----
-
-clozer
-
-ポイントカードは {もっていた}ほうがいいです
-
-It's better to own the point card.
-
-This is different than もったほうが ... because this is the state of owning
-
----
-
-clozer
-
-むじの{まえ}{を}{とおります}
-
-To pass by Muji('s storefront)
-
-とおる/通る
-
----
-
-info
-
-V (masu form) + 始める = V Starting to happen gradually. Use the same particles as you would with the V on its own. 見る＋始める?
-
-見始める! 
-
----
-
-vocab
-
-見始める 
-Starting to see or watch.
-
----
-
-vocab
-
-どうりょう/同僚 
-coworkers
-
----
-
-vocab
-
-めんどうをみる/面倒を見る 
-To take care of
-
-May include feelings of troublesome and difficult
-
----
-
-clozer
-
-かれはこの{めんどうをみる::implies it's troublesome}
-
-He takes care of the child.
-
----
-
-vocab
-
-せわをする/世話をする
-To take care of
-
----
-
-clozer
-
-かれはペットの{世話をする::not troublesome}
-
-He takes care of the pet.
-
----
-
-vocab
-
-りょうしん/両親
-Parents (both)
-
-When you're talking about someone else's parents, ごりょうしん
-
----
-
-clozer
-
-{こどもがうまれるまえはしごとのあとでなにをしましたか？}
-
-What did you do after work before your child was born?
-
----
-
-vocab
-
-かざる/飾る
-To display or decorate. Godan
-
-へやをかざりました.
-
----
-
-vocab
-
-だんだん/段々 
-Gradually, increasingly. Adverb. 
-
-The kanji for this is my first name!
-
-だんだんあたたかくなります. It will get warmer and warmer.
-
----
-
-vocab
-
-さいこう/最高 
-At most. Highest. The best. Noun
-
----
-
-vocab
-
-さいてい/最低 
-At least. Worst. 
-
----
-
-clozer
-
-{いっしゅうかんでにほんごべんきょうをやめました}
-
-I stopped studying Japanese after one week.
-
----
-
-vocab
-
-じゅうよう/重要 
-Important. Na adjective.
-
-Same meaning as たいせつ but is more often used. 
-
----
-
-vocab
-
-こたえ/答え 
-Answer
-
----
-
-vocab
-
-ひつよう/必要 
-necessary, indispensible. Na adjective.
-
-つつむひつようはありません。You don't have to wrap it.
-
----
-
-vocab
-
-こんなかんじ 
-Like this.
-
-こんな is a shortened form of この　ような
-
----
-
-vocab
-
-そんなかんじ 
-Like it.
-
-そんな is a shortened form of その　ような
-
----
-
-vocab
-
-かんようしょくぶつ/観葉植物 
-decorative plant
-
----
-
-vocab
-
-いなか/田舎 
-Rural area
-
----
-
-vocab
-
-ねんまつねんし/年末年始 
-Period of time encompassing the end of the year and the start of the new year.
-
-年 (year) まつ/末 (end) 年 (year) し/始 (start) 
-
----
-
-vocab
-
-ねんまつやすみ/年末休み 
-End of the year vacation
-
-ねん Year まつ end やすみ vacation.
-
----
-
-vocab
-
-なまえ/名字 
-First name (not family name)
-
----
-
-vocab
-
-みょうじ/苗字 
-Family name
-
----
-
-vocab
-
-いっぱんてき/一般的 
-General, popular. Common. Na adjective.
-
----
-
-vocab
-
-しぜん 
-nature
-
----
-
-vocab
-
-じょうきょうする/上京する 
-Short phrase meaning when local people move to a big city. Basically always Tokyo.
-
----
-
-vocab
-
-しぜん/自然 
-Nature. As in human nature. 
-
----
-
-vocab
-
-おおきい とかい/都会 
-big city
-
----
-
-vocab
-
-じっか/実家 
-The house you grew up in. Parent's house.
-
----
-
-vocab
-
-よこくへん/予告編 
-Movie trailer. よこく is the abbreviated form.
-
----
-
-clozer
-
-このレシピは{かんたん}です
-
-This recipe is easy.
-
-For things that are simple or easy to make, use かんたん. For study related things, use やさしい
-
----
-
-vocab
-
-かまきり 
-Praying mantis. 
-
-かま (sickle) + きり (cut)
-
----
-
-clozer
-
-どんのぐらい{きょり}ですか？
-
-What's the distance?
-
----
-
-STOP_ANKI

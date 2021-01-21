@@ -1,6 +1,10 @@
-I'm going to the convenience store now.#いまから　コンビニに　いきます#いまから is from now. Basically after we have this talk I'm going to go.#
-I'm going to the convenience store right now.#いま　コンビニに　いきます#いま is going literally right now.#
-にほんごをはなせる#I can kinda speak Japanese.#For verb that normally take を, the potential form can also take を if you're not confident in the ability. が sounds like I can do it. できる is always が. が is always safe. #
-Want to drink one last beer?#あとひとつビールをのみませんか？##
-What's the difference between  もうひとつ and あとひとつ?#Both mean one more, but the later one means after the one more it'll be the end.##
-V (masu form) + 始める = V Starting to happen gradually. Use the same particles as you would with the V on its own. 見る＋始める?#見始める! ##
+How do you put together a list of verbs the same way you would use や or とか with nouns?#たり form！V plain past form (Vた) + り. Can put two or three verbs together max and must end with a します in the conjugated form that you want all the other verbs to take as well (past, future, etc). You can also only use one verb too while still ending with します to imply you did other things but this is the "main thing." たべたりします.##
+かぞくに　１しゅうかん　あいました#I met my family for one week#Without a particle after the numbers counter means you did the verb for that duration.#
+かぞくに　１しゅうかんで　あいました#It took one week to meet my family. With で, I had to spend the 1 week to accomplish/get to the verb. ##
+What's the difference betwen しゅくだいは　あと　なんにちで　できますか and しゅくだいは　なんにちで　できますか?#Same meaning but difference in nuance. なんにちで sounds like how many days do you need. あと なんにち how many more days do you need. あと sounds like you started already.##
+What does も not replace, and what does it replace?#Doesn't replace に or で。Replaces は、が、を##
+Can you use V+てもいいですか to request someone else do something?#Nope! This is asking for permission only for you.##
+What is せんしゅう カナがおすすめしてくれたグラコロを食べました。#I ate Kana's Guraco recommendation last week.##
+Spit it out, say it clearly! #どういうこと#Can be used if someone isn't speaking clearly, hiding something.#
+How do you use し with verbs to list multiple verbs, or give reasons, or emphasize differences?#V plain form + し##
+What type of language is し? Keigo or Casual?#し is conversational and not used for writing.##

@@ -1,15 +1,21 @@
-にほんご{{c1::が}}はなせる#Can speak Japanese#が is used for potential form as this is an ability. This isn't true always! を can be used for verbs that normally take を if you're not confident in the ability.#
-にほんにきた{{c1::あと}}、２ねん にほんごをべんきょうしています#Since coming to Japan, I've been studying Japanese for two years.#If the focus is on a duration or an ongoing progressive event, drop the で from あとで！ Both まえに and あとで focus on a point in time.#
-アメリカにいく{{c1::まえ}}、３ねん　えいごをべんきょうしていました#Before going to America, I had studied English for 3 years.#If there's a duration don't use まえに, same for あとで。に and で are both for points in time.#
-これをあたため{{c1::てもらえませんか::Most polite}}？#Could you heat this for me?#Is it possible for me to receive that service from you? Interestingly, someone I talked to didn't say this is the most polite version. Need to verify this info. Also may be weird to say this to a convenience store clerk as it implies if you don't know that they can or can not.#
-{{c1::もう}}しつもんがありません#I don't have anymore questions.#Can't use もっと here! Only もう works with both positive and negative forms it looks like.#
-{{c1::あとひとつ}}ビールおねがします#One last beer please!##
-ポイントカードは　{{c1::もった}}ほうがいいです#It's better to apply for (get the) point card.#Can use plain form plus ほうが like this!#
-ポイントカードは {{c1::もっていた}}ほうがいいです#It's better to own the point card.#This is different than もったほうが ... because this is the state of owning#
-むじの{{c1::まえ}}{{c1::を}}{{c1::とおります}}#To pass by Muji('s storefront)#とおる/通る#
-かれはこの{{c1::めんどうをみる::implies it's troublesome}}#He takes care of the child.##
-かれはペットの{{c1::世話をする::not troublesome}}#He takes care of the pet.##
-{{c1::こどもがうまれるまえはしごとのあとでなにをしましたか？}}#What did you do after work before your child was born?##
-{{c1::いっしゅうかんでにほんごべんきょうをやめました}}#I stopped studying Japanese after one week.##
-このレシピは{{c1::かんたん}}です#This recipe is easy.#For things that are simple or easy to make, use かんたん. For study related things, use やさしい#
-どんのぐらい{{c1::きょり}}ですか？#What's the distance?##
+{{c1::たべたり、かぞくにあったり、ねったり します}}.#アメリアでなにをしますか？ (A: Eat, meet family, sleep. Use たり)##
+{{c1::カラオケをしたり、たべたり、ともだちにあったり したい}}.#にほんかえったあとで、なにをしたい？ (karaoke, eat, meet friends.)#たり is used because there's no specific order here. No て form necessary.#
+{{c1::べんきょうをしたり、うんどうをしたりしませんでした}}#きのうなにをしませんでしたか？ (A:study, exercise).##
+{{c1::ともだちとばんごはんをたべたりしました}}#きのうなにをしましたか？　(A: Ate dinner with a friend, imply among various things)#You can use only one word in this list too! Can imagine there are other things but dinner could be the main thing so you chose to talk about it.#
+私のしゅくだいは{{c1::あとなんにちできますか}}#How many more days can I do my homework?##
+あなたのしゅくだいは{{c1::あとなんにちでできますか}}#In how many more days can you finish your homework?##
+しょくじ{{c1::に}}{{c1::きをつけています}}か？#Do you care about your food?#きをつける is putting your mind into something so you use に#
+かれはいがく (medicine) の けんきゅう (research) {{c1::に}}{{c1::たずさわっている}}#He's involved in medical research. ##
+{{c1::するし}}, {{c1::しないし}}, {{c1::しているし}}, {{c1::していなかった し}}#Use し with する in present future, negative, progressive, and negative past progressive.##
+{{c1::かわいいし}}, {{c1::かわいくないし}}#Use し with かわいい in positive and negative forms.##
+{{c1::きれいだし}}, {{c1::きれいではないし}}#Use し with きれい in positive and negative forms.#The rule for し with na-adjectives is na-adjective + だ + し. Note きれいじゃないし is also acceptable.#
+{{c1::あめだし}}, {{c1::あめではないし}}#Use し with あめ/雨#The rule for し with nouns is noun + だ + し#
+あきはばらに{{c1::いったし}}、はらじゅくに{{c1::もいった}}#I went to Akihabara as well as Harajuku.#This uses し as an "and". Notice that the end verb uses も rather than し. This can happen in this kind of sentence.#
+マギーは{{c1::かわいいし}}、{{c1::せもたかい}}。#Maggie is cute and tall (among other things)#Note that if you had used て for the adjs it would also work but limits the qualities to those listed, rather than implying there's others. マギーはかわいくてせもいい。#
+このコートはいろがきれい{{c1::だし}}、すきなデザイン{{c1::だし}}。かいたいですよ。#This coat has a beautiful color, and I like the design, I really want to buy it.#You don't always need も either! Can continue using し to list if the subject changes. #
+かれはきぶんがいいときもある{{c1::し}}、わるいときもある。#There are times when he feels good, but also times when he feels bad.#This is when し is used to list 2 different things to highlight the contrast#
+おなかがすいた{{c1::し}}、のどがかわいた{{c1::し}}、なにかたべたいです。#(Because) I'm hungry and thirsty, I need to eat something now.#し can be used as a way to give a reason for something. In this way it acts as an "and" as well as a "Because"#
+雨が降っている{{c1::し::Colloquial}}、もう帰ります。#It's raining so I will go home now.#し when used to give a reason is similar to から but softer and more colloquial.#
+Q:どうしてレストラんでたべましたか？ A:おいしい{{c1::し}}　やすい{{c1::から::no more reasons}} たべます#Q: Why did you eat at the restaurant? A: Because it was delicious and cheap.#If there is more than one し you can replace the last one with から#
+Q:どうしてレストラんでたべましたか？ A:おいしい{{c1::し}}　やすい{{c1::し::Sounds like you were going to say more reasons but you didn't}} たべます#Q: Why did you eat at the restaurant? A: Because it was delicious and cheap.#Not using から as the last し works but it sounds like you had something else on your mind but didn't end up saying it. #
+わたしはマイク{{c1::だし}}#I am Mike! (Not Michael!)##
