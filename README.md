@@ -40,8 +40,11 @@ Cards are formatted in Anki as below.
 
 
 Fields: https://ibb.co/CMW0Zvz
+
 Front: https://ibb.co/fN41HgV
+
 Back: https://ibb.co/jbqLtyR
+
 **Vocab cards (with Reverse)**
 
 *Front*
