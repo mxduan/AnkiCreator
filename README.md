@@ -9,6 +9,7 @@ HOW TO USE
 6. Enjoy! 4 new text files should have been created. One for each of the types: Vocab, Enter, Clozer, and Info. A text file will be created 
 even if there were no notes written for tha type.
 
+## Notes Format
 All scripts must start with START_ANKI and end with STOP_ANKI. 
 Example:
 
@@ -34,9 +35,13 @@ vocab
 STOP_ANKI
 
 
+## Anki Card Layout
 Cards are formatted in Anki as below.
-.
 
+
+Fields: https://ibb.co/CMW0Zvz
+Front: https://ibb.co/fN41HgV
+Back: https://ibb.co/jbqLtyR
 **Vocab cards (with Reverse)**
 
 *Front*
